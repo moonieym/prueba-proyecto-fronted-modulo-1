@@ -1,1 +1,1 @@
-# prueba-proyecto-fronted-modulo-1
+# practica-proyecto-fronted-modulo-1
